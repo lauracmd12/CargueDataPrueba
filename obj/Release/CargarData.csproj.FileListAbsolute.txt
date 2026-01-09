@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CargarData\bin\Release\CargarData.exe.config
+C:\Users\User\source\repos\CargarData\bin\Release\CargarData.exe
+C:\Users\User\source\repos\CargarData\bin\Release\CargarData.pdb
+C:\Users\User\source\repos\CargarData\obj\Release\CargarData.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CargarData\obj\Release\CargarData.Form1.resources
+C:\Users\User\source\repos\CargarData\obj\Release\CargarData.Properties.Resources.resources
+C:\Users\User\source\repos\CargarData\obj\Release\CargarData.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CargarData\obj\Release\CargarData.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CargarData\obj\Release\CargarData.exe
+C:\Users\User\source\repos\CargarData\obj\Release\CargarData.pdb
