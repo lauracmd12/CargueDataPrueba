@@ -37,7 +37,7 @@ namespace CargarData
             lblEstado.Text = "Leyendo archivo....";
             lblEstado.Visible = true;
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
-            openFileDialog1.InitialDirectory = "C:\\Users\\User\\Descargas";    // Directorio inicial
+            openFileDialog1.InitialDirectory = "D:\\CARPETA DE  DESCARGAS";    // Directorio inicial
             openFileDialog1.Filter = "Archivos de texto (*.txt)|*.txt|Todos los archivos (*.*)|*.*";  // Filtro de archivos
             openFileDialog1.FilterIndex = 1;  // Primera opción seleccionada
             openFileDialog1.RestoreDirectory = true;
@@ -283,5 +283,9 @@ namespace CargarData
             return listaDevuelta;
         }
 
+        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
+        }
     }
 }

@@ -101,6 +101,10 @@ namespace CargarData
             this.label2.TabIndex = 4;
             this.label2.Text = "Cargar Informacion";
             // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.openFileDialog1_FileOk);
+            // 
             // btnSeleccionarArchivo
             // 
             this.btnSeleccionarArchivo.Location = new System.Drawing.Point(12, 538);
